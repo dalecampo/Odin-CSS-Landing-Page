@@ -96,7 +96,7 @@ img {
 
 
 .block-three {
-    background-color: #8ebcec;
+    background-color: #b9d5f3;
     padding: 60px 200px;
 }
 
@@ -113,3 +113,48 @@ img {
     font-size: 24px;
 }
 
+
+
+
+.block-four {
+    padding: 60px 100px;
+}
+
+.solid-blue-container {
+    display: flex;
+    background-color: #2e82dc;
+    border-radius: 20px;
+    padding: 40px 100px;
+}
+
+.cta {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h4 {
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.block-four p {
+    font-size: 12px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#cta-button {
+    margin: auto;
+    margin-right: 0px;
+    background-color: transparent;
+    border: 2px solid white;
+}
+
+.footer {
+    background-color: #07192c;
+    padding: 20px;
+    font-size: 14px;
+    text-align: center;
+}
