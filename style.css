@@ -1,0 +1,38 @@
+* {
+    font-family: Avenir, Futura;
+    color: white;
+}
+
+.header, .block-one {
+    background-color: #07192c;
+}
+
+.header {
+    display: flex;
+    text-align: center;
+}
+
+.logo {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    justify-content: center;
+    text-align: left;
+    margin-left: 40px;
+    margin-right: auto;
+    padding: 30px;
+}
+
+.header-links {
+    display: flex;
+    align-self: center;
+    justify-content: right;
+    flex: 1;
+    margin-right: 40px;
+}
+
+.header ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
